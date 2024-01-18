@@ -1,3 +1,7 @@
+<div align="center">
+<img src="./docs/images/icon.svg" alt="icon"/>
+
+<h1 align="center">ChatGPT Next Web</h1>
 https://app.dartnode.com/
 # 开源项目可以魔改，但请保留原作者信息！！
 
